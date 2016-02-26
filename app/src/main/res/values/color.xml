@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <!-- common color -->
+    <color name="common_blue">#005aa8</color><!--公用蓝色  -->
+    <color name="common_green">#5fb63c</color><!--公用绿色  -->
+    <color name="common_red">#de4747</color><!--公用红色  -->
+    <color name="common_more_gray">#494949</color><!--公用深灰色  -->
+    <color name="common_darker_gray">#989898</color><!--公用浅灰色  -->
+
+    <color name="divider_line">#d7d7d7</color><!--分割线颜色  -->
+</resources>
